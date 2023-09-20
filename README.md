@@ -6,13 +6,16 @@ Top plate is 1.2mm and has a 0.8mm mid layer to make the PCB sit flush against t
 
 Bottom plate is 2.2mm high with component cutouts to make the case extremely low profile.
 
-**This is an early version**. Successfully test printed using a Prusa MK3s+, 0.2mm layers.
-
-Make sure to print with the top plate facing the print surface. Mirror it for left and right respectively. 
+Make sure to print with the top plate facing the print surface. 
 
 The bottom plate should be printed with the bottom facing the print surface. 
 
-![](images/top-1.png)
-![](images/top-2.png)
-![](images/bottom-left.png)
-![](images/bottom-right.png)
+The knob fits EC12 encoders. The LCD Cover fits all Kyria cases.
+
+![](images/top_full.jpeg)
+
+![](images/LCD_cover.jpeg)
+
+![](images/knob.jpeg)
+
+![](images/side.jpeg)
